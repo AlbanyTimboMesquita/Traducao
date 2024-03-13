@@ -1,0 +1,6 @@
+english=Inglês
+portuguese=Português
+spanish=Espanhol
+play=Jogar
+message=Em volta do buraco tudo é beira
+

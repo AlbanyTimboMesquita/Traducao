@@ -1,0 +1,7 @@
+english=English
+portuguese=Portuguese
+spanish=Spanish
+play=Play
+message=Around the hole everything is on the edge
+ 
+

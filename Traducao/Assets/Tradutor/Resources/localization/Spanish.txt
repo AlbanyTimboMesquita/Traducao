@@ -1,0 +1,7 @@
+english=Inglés
+portuguese=Portugués
+spanish=Español
+play=Jugar
+message=Alrededor del agujero todo está al borde
+ 
+
